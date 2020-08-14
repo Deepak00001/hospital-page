@@ -89,9 +89,3 @@ main .section-left{
  	background-image: linear-gradient(to right,#649bff,#0070fa,#649bff);
  	border-radius: 10px;
  }
-#class{
-	background-color:blue;
-}
-class img{
-	float: right;
-}
